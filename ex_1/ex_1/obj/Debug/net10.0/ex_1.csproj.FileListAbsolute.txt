@@ -1,0 +1,17 @@
+F:\ex_1\ex_1\bin\Debug\net10.0\ex_1.exe
+F:\ex_1\ex_1\bin\Debug\net10.0\ex_1.deps.json
+F:\ex_1\ex_1\bin\Debug\net10.0\ex_1.runtimeconfig.json
+F:\ex_1\ex_1\bin\Debug\net10.0\ex_1.dll
+F:\ex_1\ex_1\bin\Debug\net10.0\ex_1.pdb
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.AssemblyInfoInputs.cache
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.AssemblyInfo.cs
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.csproj.CoreCompileInputs.cache
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.dll
+F:\ex_1\ex_1\obj\Debug\net10.0\refint\ex_1.dll
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.pdb
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.genruntimeconfig.cache
+F:\ex_1\ex_1\obj\Debug\net10.0\ref\ex_1.dll
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.csproj.AssemblyReference.cache
+F:\ex_1\ex_1\bin\Debug\net10.0\Newtonsoft.Json.dll
+F:\ex_1\ex_1\obj\Debug\net10.0\ex_1.csproj.Up2Date
